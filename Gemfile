@@ -16,4 +16,3 @@ group :development, :test do
   gem 'spring', '1.1.3'
 end
 
-
